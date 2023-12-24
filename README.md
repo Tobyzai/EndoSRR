@@ -29,7 +29,9 @@ Download the [Big-LaMa](https://github.com/advimman/lama) pretrained model of La
 
 ## Visualization of optimization strategy
 
-https://github.com/Tobyzai/EndoSRR/assets/53550360/e3315703-5cf7-405b-bd89-389b3083f7f4
+
+https://github.com/Tobyzai/EndoSRR/assets/53550360/de219b16-6868-477f-9f25-f0957eebe5bc
+
 
 ## EndoSRR pre-trained model for Endoscopic Specular Reflection Removal
 
