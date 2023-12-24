@@ -27,6 +27,10 @@ After configuring the yaml file, run the following command to fine-tune the SAM-
 
 Download the [Big-LaMa](https://github.com/advimman/lama) pretrained model of LaMa and place it in the pretrained folder.
 
+## Visualization of optimization strategy
+
+https://github.com/Tobyzai/EndoSRR/assets/53550360/e3315703-5cf7-405b-bd89-389b3083f7f4
+
 ## EndoSRR pre-trained model for Endoscopic Specular Reflection Removal
 
 <img width="530" alt="flowchat" src="https://github.com/Tobyzai/EndoSRR/assets/53550360/c7d05e59-403e-40ef-b924-b9b44c284aa6">
