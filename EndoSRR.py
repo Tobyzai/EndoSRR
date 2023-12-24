@@ -213,7 +213,7 @@ if __name__ == '__main__':
             save_array_to_img(img_inpainted, inpaint_p)
 
             # save final result and break
-            if ratio < 1.5e-4 or i >= 20:
+            if ratio < 1.5e-4 or i >= 4:
                 # save final mask
                 mask_name = os.path.splitext(os.path.split(in_dir)[-1])[0] + '.png'
                 mask_p = os.path.join(args.final_mask_path, mask_name)
