@@ -1,5 +1,5 @@
 # EndoSRR
-Endoscopic Specular Reflection Removal 
+EndoSRR: a comprehensive multi-stage approach for endoscopic specular reflection removal
 
 ## Demo
 
@@ -37,7 +37,7 @@ https://github.com/Tobyzai/EndoSRR/assets/53550360/de219b16-6868-477f-9f25-f0957
 
 <img width="530" alt="flowchat" src="https://github.com/Tobyzai/EndoSRR/assets/53550360/c7d05e59-403e-40ef-b924-b9b44c284aa6">
 
-Specular reflection removal using the [EndoSRR pre-trained model](https://github.com/Tobyzai/EndoSR).
+Specular reflection removal using the [EndoSRR pre-trained model](https://drive.google.com/drive/folders/12htzO9lLFakWj0WjblmxwEZwrW2NyO6z?usp=sharing).
 
 ```
 CUDA_VISIBLE_DEVICES=0 python EndoSRR.py 
