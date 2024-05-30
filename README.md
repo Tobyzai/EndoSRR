@@ -61,7 +61,7 @@ Process for creating endoscopic specular reflection weakly labeled dataset.
 
 <img width="545" alt="creation_dataset(1)" src="https://github.com/Tobyzai/EndoSRR/assets/53550360/db795987-6b76-4e23-b041-679f5dcac8c9">
 
-The whole [Reflection Dataset](https://github.com/Tobyzai/EndoSR) will be released soon, samples can be seen at EndoRR_Dataset.
+The whole [Reflection Dataset](https://drive.google.com/drive/folders/12htzO9lLFakWj0WjblmxwEZwrW2NyO6z?usp=sharing) is released.
 
 ## Acknowledgement
 Our code is based on [SAM-Adapter](https://github.com/facebookresearch/segment-anything) and [LaMa](https://github.com/advimman/lama).
