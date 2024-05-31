@@ -1,5 +1,5 @@
 # EndoSRR
-EndoSRR: a comprehensive multi-stage approach for endoscopic specular reflection removal
+[EndoSRR: a comprehensive multi-stage approach for endoscopic specular reflection removal](https://link.springer.com/article/10.1007/s11548-024-03137-8)
 
 ## Demo
 
